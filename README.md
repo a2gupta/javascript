@@ -1,2 +1,2 @@
 # javascript
-code of javascript
+code of javascript for devlopment
